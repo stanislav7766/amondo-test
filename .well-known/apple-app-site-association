@@ -29,7 +29,6 @@
                    "/":"/ladder/*",
                    "comment":"Matches any URL whose path starts with /ladder/"
                 },
-                },
                 {
                    "/":"/teams/*",
                    "comment":"Matches any URL whose path starts with /teams/"

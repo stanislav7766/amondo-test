@@ -9,7 +9,8 @@
              "paths":[
                 "/news/*",
                 "/game/*",
-                "/draw/*"
+                "/draw/*",
+                "/ladder/*"
              ],
              "appIDs":[
                 "RBWHJ6C5J6.au.com.nrl.rab"
@@ -22,6 +23,10 @@
                 {
                    "/":"/game/*",
                    "comment":"Matches any URL whose path starts with /game/"
+                },
+                {
+                   "/":"/ladder/*",
+                   "comment":"Matches any URL whose path starts with /ladder/"
                 },
                 {
                    "/":"/draw/*",

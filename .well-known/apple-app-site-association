@@ -8,6 +8,7 @@
              "appID":"RBWHJ6C5J6.au.com.nrl.rab",
              "paths":[
                 "/news/*",
+                "/game/*"
                 "/draw/*"
              ],
              "appIDs":[
@@ -17,6 +18,10 @@
                 {
                    "/":"/news/*",
                    "comment":"Matches any URL whose path starts with /news/"
+                },
+                {
+                   "/":"/game/*",
+                   "comment":"Matches any URL whose path starts with /game/"
                 },
                 {
                    "/":"/draw/*",

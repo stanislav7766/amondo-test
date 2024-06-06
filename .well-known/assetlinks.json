@@ -1,0 +1,14 @@
+[
+   {
+      "relation":[
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{
+         "namespace":"android_app",
+         "package_name":"com.telstra.nrl.rabbitohs",
+         "sha256_cert_fingerprints":[
+            "29:DB:30:4A:69:70:47:CC:C7:1F:FE:38:AC:44:AF:D1:A1:F3:F6:DA:2A:D8:10:AB:19:6E:9C:DA:95:A0:0E:7C"
+         ]
+      }
+   }
+]

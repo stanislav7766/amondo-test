@@ -1,0 +1,32 @@
+{
+    "applinks":{
+       "apps":[
+          
+       ],
+       "details":[
+          {
+             "appID":"RBWHJ6C5J6.au.com.nrl.rab",
+             "paths":[
+                "/news/*",
+                "/draw/*"
+             ],
+             "appIDs":[
+                "RBWHJ6C5J6.au.com.nrl.rab"
+             ],
+             "components":[
+                {
+                   "/":"/open/*",
+                   "comment":"Matches any URL whose path starts with /open/"
+                },
+                {
+                   "/":"/go/*",
+                   "comment":"Matches any URL whose path starts with /go/"
+                }
+             ]
+          }
+       ]
+    },
+    "webcredentials": {
+        "apps": ["RBWHJ6C5J6.au.com.nrl.rab"]
+    }
+ }

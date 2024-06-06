@@ -15,12 +15,12 @@
              ],
              "components":[
                 {
-                   "/":"/open/*",
-                   "comment":"Matches any URL whose path starts with /open/"
+                   "/":"/news/*",
+                   "comment":"Matches any URL whose path starts with /news/"
                 },
                 {
-                   "/":"/go/*",
-                   "comment":"Matches any URL whose path starts with /go/"
+                   "/":"/draw/*",
+                   "comment":"Matches any URL whose path starts with /draw/"
                 }
              ]
           }

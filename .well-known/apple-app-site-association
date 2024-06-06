@@ -8,7 +8,7 @@
              "appID":"RBWHJ6C5J6.au.com.nrl.rab",
              "paths":[
                 "/news/*",
-                "/game/*"
+                "/game/*",
                 "/draw/*"
              ],
              "appIDs":[
